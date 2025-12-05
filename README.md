@@ -81,7 +81,7 @@ Click the project titles to open the repo. Badges show stars / forks (live).
 
 ---
 
-## 📊 GitHub Stats (dark theme)
+## 📊 GitHub Stats 
 <p align="center">
   <!-- main stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shalika24&show_icons=true&theme=dark&hide_border=true" height="160" alt="Shalika24's GitHub stats"/>
@@ -99,11 +99,6 @@ Click the project titles to open the repo. Badges show stars / forks (live).
 
 ---
 
-## 🎨 Custom Banners / Visuals
-You can replace these placeholder visuals with your own images:
-
-- Header banner — change the top `<img>` URL.  
-- Developer vibe GIF — example below (replace if you want a different animation).
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="dev-gif"/>
