@@ -62,7 +62,6 @@ Click the project titles to open the repo. Badges show stars / forks (live).
   [![Stars](https://img.shields.io/github/stars/Shalika24/BudgetCare?style=social)](https://github.com/Shalika24/BudgetCare/stargazers)
   [![Forks](https://img.shields.io/github/forks/Shalika24/BudgetCare?style=social)](https://github.com/Shalika24/BudgetCare/network)
 
-> Tip: If any repo name differs, change the links/badge URLs to the exact repo slug.
 
 ---
 
@@ -111,23 +110,3 @@ You can replace these placeholder visuals with your own images:
 </p>
 
 ---
-
-## ✨ Want more polish?
-If you'd like I can:
-- Replace the header banner with a custom design (I can create one for you).  
-- Generate project-specific badges (build / language / live demo / issues).  
-- Add a "readme-spotlight" section that shows one featured project with screenshots.  
-- Convert the animated text to multiple lines or different fonts.
-
----
-
-**How to apply:**  
-1. Open: `https://github.com/Shalika24/Shalika24` (or create it if not present).  
-2. Edit the `README.md` and paste the content above.  
-3. Commit and view your profile to see it live.
-
-If you want, I can now:
-- create a custom banner image for the top (provide preferred colors / text), **or**  
-- generate project-specific badges with screenshots and a short project description for each featured repo.
-
-Which one would you like next?
